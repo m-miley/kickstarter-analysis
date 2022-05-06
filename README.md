@@ -6,7 +6,7 @@ Excel analysis on kickstarter data to help a client with her kickstarter campaig
 
 ## Analysis
 
-The most successful kickstarter campaigns in the data set were theater plays followed by rock music and documentaries.  The time of year best suited for launching successful theater campaigns would be May through July.  
+The time of year best suited for launching successful theater campaigns would be May through July.  Also, it's worth mentioning that most successful campaigns in the data set were theater plays followed by rock music and documentaries.  
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/100544761/159764488-5fb27f81-3701-4e58-baa9-52b9b0203b2d.png)
 
 The most successful goal ranges in relation to outcomes would be $0-15,000 and $35,000-$45,000 although other factors likely influence the outcomes of meeting goals.  
